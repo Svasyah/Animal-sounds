@@ -1,0 +1,38 @@
+body {
+    font-family: 'Caveat', cursive;
+    background: rgb(139, 195, 255);
+}
+
+.header_div {
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(148, 134, 255);
+    color: rgb(183, 0, 255);
+}
+
+.header_div p{
+    font-family: 'Shadows Into Light', cursive;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Indie Flower', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: boulder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(118, 181, 237);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(148, 134, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(75, 72, 248);
+}
